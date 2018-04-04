@@ -4,7 +4,7 @@
 *.exp
 *.la
 *.lib
-*.lo
+*.lofdsaf
 *.o
 *.obj
 *.pdb
